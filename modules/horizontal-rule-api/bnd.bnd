@@ -1,0 +1,4 @@
+Bundle-Name: horizontal-rule-api
+Bundle-SymbolicName: com.eversis.horizontalruleapi
+Bundle-Version: 1.0.0
+Export-Package: com.eversis.horizontalruleapi.api
