@@ -12,7 +12,7 @@
 	<version>1.0.0</version>
 	<name>Editor</name>
 	<properties>
-		<liferay.workspace.target.platform.version>7.2.0</liferay.workspace.target.platform.version>
+		<liferay.workspace.target.platform.version>7.4.3.37</liferay.workspace.target.platform.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<liferay.workspace.bundle.url>https://releases-cdn.liferay.com/portal/7.2.0-ga1/liferay-ce-portal-tomcat-7.2.0-ga1-20190531153709761.tar.gz</liferay.workspace.bundle.url>
 	</properties>
